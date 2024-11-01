@@ -1,0 +1,27 @@
+/*	Stylesheet for the webcomic display	*/
+.webcomic-next-preview {
+	width:190px;
+}
+.webcomic-separator {
+	padding-top:25px;
+	padding-bottom:20px;
+}
+
+.webcomic-links {
+	padding-top:20px;
+	padding-bottom:40px;
+}
+#webcomic-disclaimer {
+	padding-top:20px;
+}
+.webcomic-previous, .webcomic-random, .webcomic-next, .webcomic-first, .webcomic-last {
+	display:inline-block !important;
+	padding:5px;
+	font-size:20px;
+}
+.webcomic-clear {
+	clear:both;
+}
+.webcomic-preview {
+	max-width:100%;
+}

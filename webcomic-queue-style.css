@@ -1,0 +1,66 @@
+#webcomic-queue-holder {
+	width:100%;
+	display:block;
+	vertical-align: top;
+}
+#webcomic-queue-intro {
+		width:100%;
+		display: block;
+		margin-top:10px;
+		margin-bottom:20px;
+}
+#webcomic-queue-status {
+	width: 100%;
+	color: #FF0000;
+}
+.webcomic-queue-block {
+	display:inline-block;
+	vertical-align: top;
+	width:40%;
+	min-height:400px;
+}
+.webcomic-queue {
+	display:table;
+	vertical-align: top;
+	border-width:3px;
+	border-color:#000000;
+	border-style:solid;
+	text-align: center;
+	width:100%;
+}
+
+.webcomic-queue img {
+	max-width:100%;
+ }
+.webcomic-queue caption {
+	padding:7px;
+}
+
+ .clearfloat {
+	 clear:both;
+ }
+#unqueuedcomics caption, #queuedcomics caption {
+	font-size:20px;
+	font-weight:bold;
+}
+#unqueuedcomics td, #queuedcomics td {
+	padding-left:8px;
+	padding-right:8px;
+}
+#unqueuedcomics td, #unqueuedcomics th, #queuedcomics td, #queuedcomics th {
+	border-bottom: 2px solid #000000;
+}
+.updateFlag {
+	width:50px;
+}
+.updateTitle {
+	width:75px;
+}
+.comicTitle {
+	width:80px;
+}
+.webcomic-queue-comic, .webcomic-delete-comic , .webcomic-early-queue-comic, .webcomic-late-queue-comic , .webcomic-unqueue-comic {
+	display:block;
+	width:100%;
+	text-align: left;
+}

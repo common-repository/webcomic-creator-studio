@@ -1,0 +1,223 @@
+h2.nav-tab-wrapper {
+	margin:22px 0 0 0;
+}
+
+#sections {
+	padding:22px;
+	background: #fff;
+	border:1px solid #ccc;
+	border-top:0px;
+}
+
+section {
+	display:none;
+}
+
+section:first-child {
+	display:block;
+}
+
+
+.no-js h2.nav-tab-wrapper {
+	display:none;
+}
+
+.no-js #sections {
+	border-top:1px solid #ccc;
+	margin-top:22px;
+}
+
+.no-js section {
+	border-top: 1px dashed #aaa;
+	margin-top:22px;
+	padding-top:22px;
+}
+
+.no-js section:first-child {
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+.webcomic-background-box {
+	float:left;
+	padding:10px;
+}
+.webcomic-background-title {
+	font-weight:bold;
+	float:left;
+}
+.webcomic-background-delete {
+	float:right;
+	cursor: pointer;
+}
+.webcomic-char-img-delete {
+	float:right;
+	cursor: pointer;
+}
+.webcomic-character-header-delete {
+	float:right;
+	cursor: pointer;
+}
+.webcomic-character-header-name {
+	float:left;
+}
+.webcomic-background-img img {
+	max-width:200px;
+}
+.webcomic-clear {
+	clear:both;
+}
+.webcomic-admin-button {
+	margin:10px;
+	display: inline-block;
+	padding: 5px;
+	border-style:solid;
+	border-width:1px;
+	border-color:#000000;
+	background-color:#FAFAFA;
+	color:#000000;
+	font-weight:bold;
+	text-decoration: none;
+}
+#webcomic_add_char_form {
+	padding:10px;
+	border-style:solid;
+	border-width:1px;
+	border-color:#000000;
+	display:inline-block;
+}
+.webcomic_character_choice {
+	border-style:solid;
+	border-width:1px;
+	border-color:#000000;
+	padding: 5px;
+	display:inline-block;
+	margin:10px;
+}
+.webcomic-character-header {
+	font-weight:bold;
+	text-align: center;
+	border-style:none none solid none;
+	border-width:2px;
+	border-color:#000000;
+	padding-bottom:5px;
+}
+#webcomic_character_list {
+	margin:10px;
+}
+.webcomic-char-img-box {
+	float:left;
+	padding:10px;
+}
+#webcomic-settings-options {
+	padding:10px;
+	border-style:solid;
+	border-width:1px;
+	border-color:#000000;
+}
+.webcomic-settings-item {
+	display: inline-block;
+	margin:10px;
+}
+#webcomic-settings-width, #webcomic-settings-height {
+	width:100px;
+}
+#webcomic-settings-title, #webcomic-settings-url {
+	width:300px;
+}
+.webcomic-settings-submit {
+	display:block;
+	padding:20px;
+}
+
+/*The following is for Create Comic */
+
+#webcomic-comic-space { 
+	background-color: #EEEEEE;
+	width:auto;
+}
+#webcomic-comic { 
+	margin-left:50px;
+}
+.webcomic-cache-img {
+	display:none;
+}
+.webcomic-a-panel {
+	display: inline-block;
+	padding:10px;
+	border-width:3px;
+	border-color:#000000;
+	border-style:solid;
+	vertical-align:top;
+}
+#webcomic-comic-form {
+	text-align:center;
+}
+
+#webcomic-panel-setup {
+	padding-top:20px;
+	text-align:center;
+	width:auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+	
+.webcomic-char-text {
+	height:90px;
+	width:200px;
+}
+#webcomic-comic-create {
+	width: 400px;
+	height:50px;
+	margin-top:15px;
+	margin-bottom:15px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.webcomic-character-select {
+	display:inline-block;
+	margin-left:20px;
+	margin-right:20px;
+	vertical-align:top;
+}
+#webcomic-new-comic-url {
+	margin:auto;
+	width:100%;
+	text-align:center;
+	font-size:20px;
+}
+#webcomic-comic-title-div {
+	width:100%;
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#webcomic-comic-font-div {
+	width:100%;
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+#webcomic-comic-title {
+	margin:auto;
+	width:400px;
+}
+#webcomic-comic-preview-space {
+	float:right;
+}
+.webcomic-update-box {
+	display:inline-block;
+	padding:5px;
+	border-style:solid;
+	border-color:#BBBBBB;
+	border-width:1px;
+	min-width:80px;
+}
+#webcomic-comic-context {
+	position:absolute;
+	display:block;
+	margin-left:50px;
+}
+.webcomic-comic-panel-context {
+	display:inline-block;
+}

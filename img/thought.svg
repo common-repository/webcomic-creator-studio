@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="480" height="340" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" preserveAspectRatio="none meet">
+ <title>speech bubble left</title>
+ <g>
+  <title>Layer 1</title>
+  <path d="m39.462189,8.9933c-17.443798,0 -31.487049,13.329759 -31.487049,29.88741l0,179.013393c0,16.557648 14.043251,29.887482 31.487049,29.887482l99.842117,0l31.522903,0.444855l32.178223,-0.444855l235.825226,0c17.443878,0 31.48703,-13.329834 31.48703,-29.887482l0,-179.013393c0,-16.557652 -14.043152,-29.88741 -31.48703,-29.88741l-399.368469,0z" id="path575" stroke="#000000" stroke-width="3.5" fill="white"/>
+  <ellipse stroke="#000000" ry="11.5" rx="40.000002" id="svg_1" cy="270.5" cx="171" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3.5" fill="white"/>
+  <ellipse stroke="#000000" transform="matrix(1,0,0,1,0,0) matrix(1,0,0,1,0,0) matrix(1,0,0,1,0,0) " ry="2" id="svg_3" cy="275" cx="131" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3.5" fill="white"/>
+  <ellipse transform="rotate(6.581944465637207 125.99999999999946,277.00000000000006) " ry="3" id="svg_4" cy="277" cx="126" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3.5" stroke="#000000" fill="white"/>
+  <ellipse stroke="#000000" ry="10" rx="28.499999" id="svg_5" cy="302" cx="161.500001" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3.5" fill="white"/>
+  <ellipse stroke="#000000" rx="0.5" id="svg_8" cy="311" cx="95.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3.5" fill="white"/>
+  <ellipse stroke="#000000" ry="6.5" rx="18" id="svg_9" cy="327.5" cx="151" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3.5" fill="white"/>
+ </g>
+</svg>
